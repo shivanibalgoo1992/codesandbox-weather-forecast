@@ -112,3 +112,13 @@ a:active {
 #temperature {
   text-align: center;
 }
+footer {
+  font-family: cursive;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  color: #950740;
+}
+#openSourceCode {
+  color: #36081a;
+}
